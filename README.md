@@ -1,2 +1,2 @@
-# checking_job_files
-Checking job &amp; project files.
+# check_of_job_files
+Сheck of job & project files.
